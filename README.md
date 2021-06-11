@@ -67,9 +67,9 @@ $ echo $JAVA_HOME
 ```
 
 
-## Step 4:  Install Spring Tool Suite 4
+## Step 4:  Install Spring Tool Suite 4.8.1
 
-Navigate to https://spring.io/tools and download the appropriate version of Spring Tool.
+Navigate to https://github.com/spring-projects/sts4/wiki/Previous-Versions and download the 4.8.1 version of Spring Tool for MacOS. This should be the third option under the 4.8.1 heading.
 
 If your installation was successful, you should now be able to search for <code>Spring Tool Suite</code> in your spotlight search using <code>cmd+space</code>.
 
